@@ -8,12 +8,12 @@ module.exports = {
 
   // basic site info (required)
   name: 'GirlDoge',
-  domain: 'localhost:3000',
+  domain: 'https://www.blog.girldoge.org/',
   author: 'GirlDoge Community',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: '$GirlDoge\'s Blog',
+  socialImageTitle: '$GirlDoge\'s Blog',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
