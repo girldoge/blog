@@ -18,8 +18,8 @@ module.exports = {
 
   // social usernames (optional)
   twitter: 'TheGirlDoge',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  github: 'girldoge',
+  telegram: 'girldoge',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
