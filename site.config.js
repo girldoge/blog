@@ -12,8 +12,8 @@ module.exports = {
   author: 'GirlDoge Community',
 
   // open graph metadata (optional)
-  description: '$GirlDoge\'s Blog',
-  socialImageTitle: '$GirlDoge\'s Blog',
+  description: '$GirlDoge Blog',
+  socialImageTitle: '$GirlDoge Blog',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
